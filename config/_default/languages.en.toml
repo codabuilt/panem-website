@@ -1,0 +1,16 @@
+locale = "en-US"
+label = "English"
+direction = "ltr"
+weight = 1
+
+title = "Panem"
+copyright = "&copy; 2026 Panem"
+
+[params]
+  dateFormat = "January 2, 2006"
+
+  mainSections = ["posts"]
+  description = "Stop wasting food. Stop wasting money. Panem helps you track what you have, use it before it expires, and shop smarter."
+
+[params.author]
+  name = "Panem"
