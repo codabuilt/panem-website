@@ -5,3 +5,8 @@
 [build.environment]
   HUGO_VERSION = "0.164.0"
   HUGO_ENV = "production"
+
+[[headers]]
+  for = "/.well-known/apple-app-site-association"
+  [headers.values]
+    Content-Type = "application/json"
